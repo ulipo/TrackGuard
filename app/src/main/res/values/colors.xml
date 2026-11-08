@@ -1,0 +1,14 @@
+<resources>
+    <color name="nord_background">#ECEFF4</color>
+    <color name="nord_surface">#FFFFFF</color>
+    <color name="nord_primary">#5E81AC</color>
+    <color name="nord_on_primary">#FFFFFF</color>
+    <color name="nord_secondary">#88C0D0</color>
+    <color name="nord_on_secondary">#263746</color>
+    <color name="nord_text">#2E3440</color>
+    <color name="nord_muted">#4C566A</color>
+    <color name="nord_border">#D8DEE9</color>
+    <color name="nord_green">#A3BE8C</color>
+    <color name="nord_red">#BF616A</color>
+    <color name="nord_soft_blue">#E5E9F0</color>
+</resources>

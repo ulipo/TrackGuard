@@ -1,0 +1,10 @@
+TrackGuard source update
+
+Changes in this revision:
+- GitHub Actions migrated to Node.js 24-compatible action versions: checkout@v6, setup-java@v6, setup-android@v4, setup-gradle@v6, upload-artifact@v7.
+- Added Material Components 1.13.0 and Material 3 theme.
+- Redesigned the main screen with Nord-inspired colors and Material cards / outlined controls.
+- Replaced separate Start and Stop buttons with one circular toggle button (▶ start / ■ stop), including state color and accessibility description.
+- Preserved GPX import, deviation threshold, notification repeat interval and tracking service behavior.
+
+Build status: source and XML structure checked; APK compilation has not been run in this environment. Verify with GitHub Actions.
